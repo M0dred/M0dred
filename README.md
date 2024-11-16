@@ -12,12 +12,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=M0dred&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/M0dred/whoami">
-    <img src="https://img.shields.io/badge/whoami-Repository-blue?style=for-the-badge">
-  </a>
-</p>
-<p align="center">
-  Check out my <a href="https://github.com/M0dred/whoami">whoami</a> repository!
-</p>
