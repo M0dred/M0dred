@@ -6,3 +6,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M0dred&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M0dred&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
