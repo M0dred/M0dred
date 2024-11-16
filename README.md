@@ -12,6 +12,14 @@ Hi there! This is **Max**, I specialize in leveraging tools like **Zmap**, **Mas
 
 ---
 
+## 🐱 My Fun Side
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Quantum Cat" width="400"/>
+</p>
+
+---
+
 ## 🛠️ Key Technologies and Skills
 
 <p align="center">
@@ -31,14 +39,6 @@ Hi there! This is **Max**, I specialize in leveraging tools like **Zmap**, **Mas
 
 - **Scalable Scanning Pipelines**: Automating reconnaissance workflows that adapt to real-world network constraints, dynamically scaling infrastructure with **Terraform**.
 - **Advanced Data Visualization**: Using **Grafana** and **Kibana** dashboards to track security trends and monitor network attack surfaces.
-
----
-
-## 🐱 My Fun Side
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Quantum Cat" width="400"/>
-</p>
 
 ---
 
